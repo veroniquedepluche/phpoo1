@@ -1,0 +1,24 @@
+PHP 10/10
+
+
+- Site boutique :
+    - correction gestion_membre.php
+
+    - fiche_produit.php :
+        - contrôle existence du produit
+        - affichage des informations du produit
+        - formulaire d'ajout au panier
+               
+    - panier.php :
+        - ajout du produit au panier
+        - affichage du panier
+        - modale de confirmation d'ajout au panier
+
+
+   
+  
+
+
+
+   
+
